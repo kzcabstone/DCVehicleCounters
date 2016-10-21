@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<BL>100</BL>
+<LD>1</LD>
+<x1>50</x1>
+<x2>400</x2>
+<y>186</y>
+<y1>176</y1>
+<y2>203</y2>
+<x11>63</x11>
+<x12>389</x12>
+<x21>37</x21>
+<x22>420</x22>
+<EDT1>200</EDT1>
+<EDT2>600</EDT2>
+<BGH>400</BGH>
+<BGT>1</BGT>
+<BGS>0</BGS>
+<LPF>1</LPF>
+<CTT>2</CTT>
+<LDIV type_id="opencv-matrix">
+  <rows>7</rows>
+  <cols>1</cols>
+  <dt>i</dt>
+  <data>
+    87 128 169 219 270 312 361</data></LDIV>
+<MIA>10</MIA>
+<MAA>20000</MAA>
+<BVRH>1.5000000000000000e+00</BVRH>
+<BVRW>1.5000000000000000e+00</BVRW>
+<RR>25.</RR>
+<AS>60.</AS>
+<VW>2.</VW>
+<VL>4.5000000000000000e+00</VL>
+<LW>3.7500000000000000e+00</LW>
+</opencv_storage>
